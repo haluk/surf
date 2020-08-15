@@ -4,7 +4,7 @@ VERSION = 2.0
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = $(HOME)/.build/surf
 MANPREFIX = $(PREFIX)/share/man
 LIBPREFIX = $(PREFIX)/lib
 LIBDIR = $(LIBPREFIX)/surf
